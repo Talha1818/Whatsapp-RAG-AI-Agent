@@ -38,3 +38,11 @@
 ## 7. Test Your Chatbot
     Send a WhatsApp message to your Twilio number (which you set up during the account creation).
     You should receive responses based on the logic defined in the Flask app.
+
+## Demo
+
+
+https://github.com/user-attachments/assets/885fb829-fdbd-42be-a276-729362e8ca99
+
+
+
