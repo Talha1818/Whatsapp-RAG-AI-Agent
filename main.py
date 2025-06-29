@@ -15,7 +15,7 @@ import os
 # -------------------------------
 # 1. Environment setup
 # -------------------------------
-os.environ["GROQ_API_KEY"] = "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"  # Replace with your real key
+os.environ["GROQ_API_KEY"] = "XXXX"  # Replace with your real key
 
 # -------------------------------
 # 2. Load and split documents
